@@ -120,11 +120,12 @@ figcaption {
 }
 
 footer {
-  display: inline-block;
+  display: block;
   padding: 0.5em 25.75em 1em 0.5em;
   background-color: #79756f;
   color: white;
   text-decoration: none;
+  text-align: top;
 }
 
 .sources {
@@ -135,5 +136,5 @@ footer {
 figure {
   border: 2px solid #bcb9b2;
   border-radius: 5px;
-  padding: 0.5rem 0.5rem 0.5rem 0.5rem;
+  padding: 0.25rem 0.5rem 0.25rem 0.5rem;
 }
