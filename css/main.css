@@ -125,7 +125,6 @@ footer {
   background-color: #79756f;
   color: white;
   text-decoration: none;
-  text-align: top;
 }
 
 .sources {
@@ -137,4 +136,9 @@ figure {
   border: 2px solid #bcb9b2;
   border-radius: 5px;
   padding: 0.25rem 0.5rem 0.25rem 0.5rem;
+}
+
+dd {
+  margin: 0;
+  padding: 0.25rem 0.5rem 2rem 0.75rem;
 }
